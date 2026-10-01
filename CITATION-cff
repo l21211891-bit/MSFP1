@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Diseño de controladores'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Africa Montserrat '
+    family-names: Rodriguez García
+    email: L21211891@tectijuana.edu.mx
+    affiliation: ITT/TecNM
+repository-code: 'https://github.com/l21211891-bit/MSFP1'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema Respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+date-released: '2026-09-30'
